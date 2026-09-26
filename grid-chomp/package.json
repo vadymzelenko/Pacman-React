@@ -1,0 +1,23 @@
+{
+  "name": "grid-chomp",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.5.2",
+    "@supabase/supabase-js": "^2.45.4",
+    "autoprefixer": "^10.6.1",
+    "framer-motion": "^13.4.4",
+    "geist": "^1.7.2",
+    "gsap": "^3.15.0",
+    "next": "16.3.3",
+    "postcss": "^8.5.28",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwindcss": "^3.4.19"
+  }
+}
